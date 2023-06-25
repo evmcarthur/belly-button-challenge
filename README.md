@@ -1,36 +1,13 @@
-# belly-button-challenge
+Belly Button Challeng
+![Alt text](image.png)
 
-Table of Contents
-Project Description
-Installation
-Usage
-Data Source
-Technologies Used
-Contributing
-License
+Goal
+The goal of the project was to develop a dashboard that provides an interactive experience for anyone who is interacting with the dataset. 
 
 Project Description
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels.
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+In this project, we built an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-
-Installation
-[Provide instructions on how to install and set up the project. Include any dependencies that need to be installed.]
-
-Usage
-[Provide instructions on how to use the project. Include examples and screenshots if applicable.]
-
-Data Source
-[Provide information about the data source used in the project. Include the link to the source and any relevant details.]
-
-Technologies Used
-
-
-
-
-
-
-
+The application allows users to select a particular ID and have the relevent data set change in the two graphs. 
 
 
 
