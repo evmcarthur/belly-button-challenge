@@ -25,6 +25,7 @@ d3.json(url).then(function(data) {
         .text(id)
         .property("value", id);
     });
+
   }
 
   // Call the function to populate the dropdown menu
