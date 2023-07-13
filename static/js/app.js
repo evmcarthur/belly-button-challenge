@@ -128,8 +128,10 @@ d3.json(url).then(function(data) {
         .text(`${key}: ${value}`);
     });
   }
+processData(data);
 
 }).catch(function(error) {
   // Handle any errors that occur during the request
   console.log(error);
 });
+
